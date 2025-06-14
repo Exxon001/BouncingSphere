@@ -5,3 +5,9 @@ The gravity vector can be changed
 The radius value can be changed to make it bigger or smaller
 
 The borders of the walls can be changed but I found it best to leave it as is
+
+rotate with either arrow keys or with left clicking and dragging
+
+jump with space
+
+move with A and D
